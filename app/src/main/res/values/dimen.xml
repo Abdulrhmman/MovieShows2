@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main -->
+    <dimen name="movie_image_height">220dp</dimen>
+    <dimen name="movie_title_text_size">14sp</dimen>
+    <dimen name="movie_vote_average_text_size">12sp</dimen>
+    <dimen name="recycler_query_exhausted_view_height">80dp</dimen>
+
+    <!-- details -->
+    <dimen name="movie_details_main_image_height">250dp</dimen>
+    <dimen name="movie_details_poster_image_height">200dp</dimen>
+    <dimen name="movie_details_poster_image_width">150dp</dimen>
+    <dimen name="movie_details_title_text_size">20sp</dimen>
+    <dimen name="movie_details_main_text_size">16sp</dimen>
+
+</resources>

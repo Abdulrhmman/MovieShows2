@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Shows</string>
+
+    <string name="error_message">Can\'t retrieve data</string>
+    <string name="no_more_results">No more results...</string>
+    <string name="query_exhausted_constant">EXHAUSTED...</string>
+</resources>
